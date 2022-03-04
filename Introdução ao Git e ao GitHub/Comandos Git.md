@@ -30,6 +30,6 @@
 
     git push
 
-• git push -u *nome_curto* *nome_do_branch* (sobre as informações para um rep. remoto que foi conectado com o git remote antes.
+• git push -u *nome_curto* *nome_do_branch* (sobe as informações para um rep. remoto que foi conectado com o git remote antes)
 
 - git push origin main
