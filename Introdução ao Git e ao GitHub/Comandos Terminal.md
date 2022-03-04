@@ -1,11 +1,11 @@
-• dir: lista arquivos
+• dir: **_lista arquivos_**
 
-• md: cria pasta
+• md: **_cria pasta_**
 
-• cd: entra pasta
+• cd: **_entra pasta_**
 
-• .: retornar pasta
+• .: **_retornar pasta_**
 
-• rd: remove pasta
+• rd: **_remove pasta_**
 
-• erase/del: deleta arquivos
+• erase/del: **_deleta arquivos_**
