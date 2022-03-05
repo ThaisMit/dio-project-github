@@ -1,6 +1,10 @@
 # DIO - Git e GitHub 💻
 Primeiro Repositório - Desafio DIO sobre o Git/GitHub
 
+  🔴 [Links Úteis](https://github.com/ThaisMit/dio-desafio-github#links-%C3%BAteis)  
+  🟡 [Git](https://github.com/ThaisMit/dio-desafio-github#git)  
+  🟢 [GitHub](https://github.com/ThaisMit/dio-desafio-github#github)  
+
 ## Links Úteis
 
 * [Sintaxe Básica Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
