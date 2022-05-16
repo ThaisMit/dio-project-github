@@ -1,11 +1,15 @@
-• dir: **_lista arquivos_**
+- dir: ***lista arquivos***
 
-• md: **_cria pasta_**
+- mkdir nome_da_pasta: ***cria pasta***
 
-• cd: **_entra pasta_**
+- cd nome_da_pasta: ***entra pasta***
 
-• .: **_retornar pasta_**
+- cd .. : ***sai pasta***
 
-• rd: **_remove pasta_**
+- rm nome_do_arquivo **|** ou **|** rm -r nome **|** ou **|** rm -rf nome: ***remove pasta***
 
-• erase/del: **_deleta arquivos_**
+- erase/del: ***deleta arquivos***
+
+- ls: ***lista o que tiver na pasta***
+
+- Ctrl + l ou clear: ***limpa a tela***
